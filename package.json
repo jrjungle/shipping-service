@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jrjungle/shipping-service/issues"
   },
-  "homepage": "https://github.com/jrjungle/shipping-service#readme"
+  "homepage": "https://github.com/jrjungle/shipping-service#readme",
+  "devDependencies": {
+    "sinon": "^7.3.2"
+  }
 }
